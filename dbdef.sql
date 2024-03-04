@@ -1,4 +1,4 @@
--- Named SQL so that Visual Studio recognized the file
+-- Named .SQL so that Visual Studio recognized the file
 
 -- SQL DDL for 'User' table
 CREATE TABLE User (
